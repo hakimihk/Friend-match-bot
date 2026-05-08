@@ -1,0 +1,21 @@
+# ─── eFootball Friend Match Bot — Requirements ───────────────
+# Install with: pip install -r requirements.txt
+
+# Telegram Bot API library
+pyTelegramBotAPI==4.18.0
+
+# Web server for webhook mode
+Flask==3.0.3
+Werkzeug==3.0.3
+
+# Environment variable loader (.env file support)
+python-dotenv==1.0.1
+
+# HTTP client (used internally by telebot)
+requests==2.32.3
+
+# Gunicorn WSGI server (for VPS/Render/Railway production)
+gunicorn==22.0.0
+
+# Optional: faster JSON parsing
+ujson==5.10.0
