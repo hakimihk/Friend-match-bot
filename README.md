@@ -51,8 +51,8 @@ efootball_bot/
 ### 1. Clone / Download the project
 
 ```bash
-git clone https://github.com/yourname/efootball-bot.git
-cd efootball-bot
+git clone https://github.com/hakimihk/friend-match-bot.git
+cd friend-match-bot
 ```
 
 ### 2. Create virtual environment
